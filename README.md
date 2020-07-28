@@ -1,4 +1,4 @@
-This project was inspired snd started by Nicole Duncan (https://github.com/thenicoleduncan), Brooke Parrish (https://github.com/brookeparrish), Eric Figueroa (https://github.com/lerik21), Joshua Einsel (https://github.com/JEinsel) and completed by Nicole Duncan.
+This project was inspired and started by Nicole Duncan (https://github.com/thenicoleduncan), Brooke Parrish (https://github.com/brookeparrish), Eric Figueroa (https://github.com/lerik21), Joshua Einsel (https://github.com/JEinsel) and completed by Nicole Duncan.
 
 ## To Run
 
