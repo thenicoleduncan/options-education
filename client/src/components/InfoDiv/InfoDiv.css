@@ -1,0 +1,15 @@
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.Jumbrotron {
+    background-color: none !important;
+}
+
+#thing {
+    color: #AF5500;
+}

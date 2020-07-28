@@ -1,0 +1,22 @@
+.font-small {
+    background-color: #2f4f4f !important;
+}
+
+a {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+.noPadding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.noPaddingRight {
+    padding-right: 0 !important;
+}
+
